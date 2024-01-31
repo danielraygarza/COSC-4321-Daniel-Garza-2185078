@@ -844,7 +844,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2fa42fc960b67443ca283290ac72ddab, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
+  speed: 15
   countText: {fileID: 746691095}
   winTextObject: {fileID: 1797386899}
 --- !u!1001 &539122826
